@@ -1,6 +1,6 @@
 # SCALE: Semantic Code Analysis via Learned Embeddings .
 
-### 3rd best paper on Artificial Intelligence track | presented at the 2023 International Conference on AI, Blockchain, Cloud Computing and Data Analytics
+#### 3rd best paper on Artificial Intelligence track | presented at the 2023 International Conference on AI, Blockchain, Cloud Computing and Data Analytics
 
 This repository holds the code and supplementary materials for SCALE: Semantic Code Analysis via Learned Embeddings. This research explores the efficacy of contrastive learning alongside large language models as a paradigm for developing a model capable of creating code embeddings indicative of code on a functional level.
 
