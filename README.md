@@ -1,4 +1,4 @@
-# SCALE: Semantic Code Analysis via Learned Embeddings .
+# SCALE: Semantic Code Analysis via Learned Embeddings
 
 #### 3rd best paper on Artificial Intelligence track | presented at the 2023 International Conference on AI, Blockchain, Cloud Computing and Data Analytics
 
